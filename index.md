@@ -1,0 +1,1 @@
+Wedding site is now at [https://rolfmorewedding.azurewebsites.net](https://rolfmorewedding.azurewebsites.net/), basically because I don't want to may Microsoft €50 a month for a custom domain with an SSL cert. Sorry.
